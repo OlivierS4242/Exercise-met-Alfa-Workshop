@@ -1,0 +1,15 @@
+C:\Users\otmsc\OneDrive\Desktop\My work\bin\Debug\net6.0\My work.exe
+C:\Users\otmsc\OneDrive\Desktop\My work\bin\Debug\net6.0\My work.deps.json
+C:\Users\otmsc\OneDrive\Desktop\My work\bin\Debug\net6.0\My work.runtimeconfig.json
+C:\Users\otmsc\OneDrive\Desktop\My work\bin\Debug\net6.0\My work.dll
+C:\Users\otmsc\OneDrive\Desktop\My work\bin\Debug\net6.0\My work.pdb
+C:\Users\otmsc\OneDrive\Desktop\My work\obj\Debug\net6.0\My work.csproj.AssemblyReference.cache
+C:\Users\otmsc\OneDrive\Desktop\My work\obj\Debug\net6.0\My work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otmsc\OneDrive\Desktop\My work\obj\Debug\net6.0\My work.AssemblyInfoInputs.cache
+C:\Users\otmsc\OneDrive\Desktop\My work\obj\Debug\net6.0\My work.AssemblyInfo.cs
+C:\Users\otmsc\OneDrive\Desktop\My work\obj\Debug\net6.0\My work.csproj.CoreCompileInputs.cache
+C:\Users\otmsc\OneDrive\Desktop\My work\obj\Debug\net6.0\My work.dll
+C:\Users\otmsc\OneDrive\Desktop\My work\obj\Debug\net6.0\refint\My work.dll
+C:\Users\otmsc\OneDrive\Desktop\My work\obj\Debug\net6.0\My work.pdb
+C:\Users\otmsc\OneDrive\Desktop\My work\obj\Debug\net6.0\My work.genruntimeconfig.cache
+C:\Users\otmsc\OneDrive\Desktop\My work\obj\Debug\net6.0\ref\My work.dll
